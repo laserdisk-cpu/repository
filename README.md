@@ -1,1 +1,1 @@
-# repository
+This Repository is anarchy from here on out, expect anything even a script to immediatly ban and idiot 6 year old from their favorite baby game minecraft, so take the titles litereally they're not jokes that what the script does.
