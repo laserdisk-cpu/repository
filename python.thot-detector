@@ -1,0 +1,49 @@
+
+multiplebf = 0
+youremyfavoriterappernow = 0
+vsco = 0
+chewsonpencil = 0
+begsforfreestuff = 0
+hypebeast = 0
+parentsallowance = 0
+stealsweatshirt = 0
+scrunchieonwrist = 0
+involedinthenewdrama = 0
+posesinpictures = 0
+suckuptoteacher = 0
+materialistic = 0
+tiktokdances = 0
+croptop = 0
+x = multiplebf + youremyfavoriterappernow + vsco + chewsonpencil + begsforfreestuff + hypebeast + parentsallowance + stealsweatshirt + scrunchieonwrist + involedinthenewdrama + posesinpictures + suckuptoteacher + materialistic + tiktokdances + croptop
+if (x) == 1:
+  print("You're an epic Gamer")
+if (x) == 2:
+  print("You're an epic Gamer")
+if (x) == 3:
+  print("You're a Normie")
+if (x) == 4:
+  print("You're a Normie")
+if (x) == 5:
+  print("You have cancer")
+if (x) == 6:
+  print("You have cancer")
+if (x) == 7:
+  print("You're Borderline Thot")
+if (x) == 8:
+  print("You're Borderline Thot")
+if (x) == 9:
+  print("You're a Thot.Period.No Arguement.")
+if (x) == 10:
+  print("You're a Thot.Period.No Arguement.")
+if (x) == 11:
+  print("You're Getting Thotteir!")
+if (x) == 12:
+  print("You're Getting Thotteir!")
+if (x) == 13:
+  print("You Are Diagnosed with Ho")
+if (x) == 14:
+  print("You Are Diagnosed with Ho")
+if (x) == 15:
+  print("God How Many Boyfriends do you have?")
+if (x) == 16:
+  print("God How Many Boyfriends do you have?")
